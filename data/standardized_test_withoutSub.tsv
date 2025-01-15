@@ -1,0 +1,326 @@
+fine_label utterance
+NUM:num How far is it from Denver to Aspen ?
+LOC:loc "What county is Modesto
+HUM:hum Who was Galileo ?
+DESC:desc What is an atom ?
+NUM:num When did Hawaii become a state ?
+NUM:num How tall is the Sears Building ?
+HUM:hum George Bush purchased a small interest in which baseball team ?
+ENTY:enty What is Australia 's national flower ?
+DESC:desc Why does the moon turn orange ?
+DESC:desc What is autism ?
+LOC:loc What city had a world fair in 1900 ?
+HUM:hum What person 's head is on a dime ?
+NUM:num What is the average weight of a Yellow Labrador ?
+HUM:hum Who was the first man to fly across the Pacific Ocean ?
+NUM:num When did Idaho become a state ?
+NUM:num What is the life expectancy for crickets ?
+ENTY:enty What metal has the highest melting point ?
+HUM:hum Who developed the vaccination against polio ?
+DESC:desc What is epilepsy ?
+NUM:num What year did the Titanic sink ?
+HUM:hum Who was the first American to walk in space ?
+DESC:desc What is a biosphere ?
+LOC:loc What river in the US is known as the Big Muddy ?
+DESC:desc What is bipolar disorder ?
+DESC:desc What is cholesterol ?
+HUM:hum Who developed the Macintosh computer ?
+DESC:desc What is caffeine ?
+LOC:loc What imaginary line is halfway between the North and South Poles ?
+LOC:loc Where is John Wayne airport ?
+LOC:loc What hemisphere is the Philippines in ?
+NUM:num What is the average speed of the horses at the Kentucky Derby ?
+LOC:loc Where are the Rocky Mountains ?
+DESC:desc What are invertebrates ?
+NUM:num What is the temperature at the center of the earth ?
+NUM:num When did John F. Kennedy get elected as President ?
+NUM:num How old was Elvis Presley when he died ?
+LOC:loc Where is the Orinoco River ?
+NUM:num How far is the service line from the net in tennis ?
+NUM:num How much fiber should you have per day ?
+NUM:num How many Great Lakes are there ?
+ENTY:enty Material called linen is made from what plant ?
+DESC:desc What is Teflon ?
+DESC:desc What is amitriptyline ?
+DESC:desc What is a shaman ?
+ENTY:enty What is the proper name for a female walrus ?
+ENTY:enty What is a group of turkeys called ?
+NUM:num How long did Rip Van Winkle sleep ?
+DESC:desc What are triglycerides ?
+NUM:num How many liters in a gallon ?
+HUM:hum What is the name of the chocolate company in San Francisco ?
+DESC:desc What are amphibians ?
+HUM:hum Who discovered x-rays ?
+HUM:hum Which comedian 's signature line is `` Can we talk '' ?
+DESC:desc What is fibromyalgia ?
+DESC:desc What is done with worn or outdated flags ?
+DESC:desc What does cc in engines mean ?
+NUM:num When did Elvis Presley die ?
+LOC:loc What is the capital of Yugoslavia ?
+LOC:loc Where is Milan ?
+NUM:num What is the speed hummingbirds fly ?
+LOC:loc What is the oldest city in the United States ?
+HUM:hum What was W.C. Fields ' real name ?
+LOC:loc "What river flows between Fargo
+ENTY:enty What do bats eat ?
+LOC:loc What state did the Battle of Bighorn take place in ?
+HUM:hum Who was Abraham Lincoln ?
+ENTY:enty What do you call a newborn kangaroo ?
+DESC:desc What are spider veins ?
+NUM:num What day and month did John Lennon die ?
+LOC:loc What strait separates North America from Asia ?
+NUM:num What is the population of Seattle ?
+NUM:num How much was a ticket for the Titanic ?
+LOC:loc What is the largest city in the world ?
+HUM:hum What American composer wrote the music for `` West Side Story '' ?
+LOC:loc Where is the Mall of the America ?
+DESC:desc What is the pH scale ?
+ENTY:enty What type of currency is used in Australia ?
+NUM:num "How tall is the Gateway Arch in St. Louis
+NUM:num How much does the human adult female brain weigh ?
+HUM:hum Who was the first governor of Alaska ?
+DESC:desc What is a prism ?
+NUM:num When was the first liver transplant ?
+HUM:hum Who was elected president of South Africa in 1994 ?
+NUM:num What is the population of China ?
+NUM:num When was Rosa Parks born ?
+DESC:desc Why is a ladybug helpful ?
+DESC:desc What is amoxicillin ?
+HUM:hum Who was the first female United States Representative ?
+DESC:desc What are xerophytes ?
+LOC:loc What country did Ponce de Leon come from ?
+ENTY:enty The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?
+DESC:desc What is desktop publishing ?
+NUM:num What is the temperature of the sun 's surface ?
+NUM:num What year did Canada join the United Nations ?
+HUM:hum What is the oldest university in the US ?
+LOC:loc Where is Prince Edward Island ?
+NUM:num "Mercury
+DESC:desc What is cryogenics ?
+DESC:desc What are coral reefs ?
+ENTY:enty What is the longest major league baseball-winning streak ?
+DESC:desc What is neurology ?
+HUM:hum Who invented the calculator ?
+DESC:desc How do you measure earthquakes ?
+HUM:hum Who is Duke Ellington ?
+LOC:loc "What county is Phoenix
+DESC:desc What is a micron ?
+NUM:num "The sun 's core
+ENTY:enty What is the Ohio state bird ?
+NUM:num When were William Shakespeare 's twins born ?
+LOC:loc What is the highest dam in the U.S. ?
+ENTY:enty What color is a poison arrow frog ?
+DESC:desc What is acupuncture ?
+NUM:num What is the length of the coastline of the state of Alaska ?
+HUM:hum What is the name of Neil Armstrong 's wife ?
+ENTY:enty What is Hawaii 's state flower ?
+HUM:hum Who won Ms. American in 1989 ?
+NUM:num When did the Hindenberg crash ?
+ENTY:enty What mineral helps prevent osteoporosis ?
+NUM:num What was the last year that the Chicago Cubs won the World Series ?
+LOC:loc Where is Perth ?
+NUM:num What year did WWII begin ?
+NUM:num What is the diameter of a golf ball ?
+DESC:desc What is an eclipse ?
+HUM:hum Who discovered America ?
+NUM:num What is the earth 's diameter ?
+HUM:hum Which president was unmarried ?
+NUM:num How wide is the Milky Way galaxy ?
+NUM:num During which season do most thunderstorms occur ?
+DESC:desc What is Wimbledon ?
+NUM:num What is the gestation period for a cat ?
+NUM:num How far is a nautical mile ?
+HUM:hum Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?
+DESC:desc What does target heart rate mean ?
+ENTY:enty What was the first satellite to go into space ?
+DESC:desc What is foreclosure ?
+ENTY:enty What is the major fault line near Kentucky ?
+LOC:loc Where is the Holland Tunnel ?
+HUM:hum Who wrote the hymn `` Amazing Grace '' ?
+HUM:hum What position did Willie Davis play in baseball ?
+DESC:desc What are platelets ?
+DESC:desc What is severance pay ?
+ENTY:enty What is the name of Roy Roger 's dog ?
+LOC:loc Where are the National Archives ?
+ENTY:enty What is a baby turkey called ?
+DESC:desc What is poliomyelitis ?
+ENTY:enty What is the longest bone in the human body ?
+HUM:hum Who is a German philosopher ?
+ENTY:enty What were Christopher Columbus ' three ships ?
+DESC:desc What does Phi Beta Kappa mean ?
+DESC:desc What is nicotine ?
+ENTY:enty What is another name for vitamin B1 ?
+HUM:hum Who discovered radium ?
+DESC:desc What are sunspots ?
+NUM:num When was Algeria colonized ?
+HUM:hum What baseball team was the first to make numbers part of their uniform ?
+LOC:loc What continent is Egypt on ?
+LOC:loc What is the capital of Mongolia ?
+DESC:desc What is nanotechnology ?
+LOC:loc In the late 1700 's British convicts were used to populate which colony ?
+LOC:loc What state is the geographic center of the lower 48 states ?
+DESC:desc What is an obtuse angle ?
+DESC:desc What are polymers ?
+NUM:num When is hurricane season in the Caribbean ?
+LOC:loc Where is the volcano Mauna Loa ?
+ENTY:enty What is another astronomic term for the Northern Lights ?
+LOC:loc What peninsula is Spain part of ?
+NUM:num When was Lyndon B. Johnson born ?
+DESC:desc What is acetaminophen ?
+LOC:loc What state has the least amount of rain per year ?
+HUM:hum Who founded American Red Cross ?
+NUM:num What year did the Milwaukee Braves become the Atlanta Braves ?
+NUM:num How fast is alcohol absorbed ?
+NUM:num When is the summer solstice ?
+DESC:desc What is supernova ?
+LOC:loc Where is the Shawnee National Forest ?
+LOC:loc What U.S. state 's motto is `` Live free or Die '' ?
+LOC:loc Where is the Lourve ?
+NUM:num When was the first stamp issued ?
+ENTY:enty What primary colors do you mix to make orange ?
+NUM:num How far is Pluto from the sun ?
+LOC:loc What body of water are the Canary Islands in ?
+DESC:desc What is neuropathy ?
+LOC:loc Where is the Euphrates River ?
+DESC:desc What is cryptography ?
+ENTY:enty What is natural gas composed of ?
+HUM:hum Who is the Prime Minister of Canada ?
+HUM:hum What French ruler was defeated at the battle of Waterloo ?
+DESC:desc What is leukemia ?
+LOC:loc Where did Howard Hughes die ?
+ENTY:enty What is the birthstone for June ?
+ENTY:enty What is the sales tax in Minnesota ?
+NUM:num What is the distance in miles from the earth to the sun ?
+NUM:num What is the average life span for a chicken ?
+NUM:num When was the first Wal-Mart store opened ?
+DESC:desc What is relative humidity ?
+LOC:loc What city has the zip code of 35824 ?
+ENTY:enty What currency is used in Algeria ?
+HUM:hum Who invented the hula hoop ?
+ENTY:enty What was the most popular toy in 1957 ?
+ENTY:enty What is pastrami made of ?
+ENTY:enty What is the name of the satellite that the Soviet Union sent into space in 1957 ?
+LOC:loc What city 's newspaper is called `` The Enquirer '' ?
+HUM:hum Who invented the slinky ?
+ENTY:enty What are the animals that don 't have backbones called ?
+NUM:num What is the melting point of copper ?
+LOC:loc Where is the volcano Olympus Mons located ?
+HUM:hum Who was the 23rd president of the United States ?
+NUM:num What is the average body temperature ?
+DESC:desc What does a defibrillator do ?
+DESC:desc What is the effect of acid rain ?
+NUM:num What year did the United States abolish the draft ?
+NUM:num How fast is the speed of light ?
+LOC:loc What province is Montreal in ?
+LOC:loc What New York City structure is also known as the Twin Towers ?
+DESC:desc What is fungus ?
+ENTY:enty What is the most frequently spoken language in the Netherlands ?
+DESC:desc What is sodium chloride ?
+ENTY:enty What are the spots on dominoes called ?
+NUM:num How many pounds in a ton ?
+DESC:desc What is influenza ?
+DESC:desc What is ozone depletion ?
+NUM:num What year was the Mona Lisa painted ?
+DESC:desc What does `` Sitting Shiva '' mean ?
+ENTY:enty "What is the electrical output in Madrid
+LOC:loc Which mountain range in North America stretches from Maine to Georgia ?
+ENTY:enty What is plastic made of ?
+NUM:num What is the population of Nigeria ?
+DESC:desc What does your spleen do ?
+LOC:loc Where is the Grand Canyon ?
+HUM:hum Who invented the telephone ?
+NUM:num What year did the U.S. buy Alaska ?
+HUM:hum What is the name of the leader of Ireland ?
+DESC:desc What is phenylalanine ?
+NUM:num How many gallons of water are there in a cubic foot ?
+ENTY:enty What are the two houses of the Legislative branch ?
+DESC:desc What is sonar ?
+LOC:loc "In Poland
+DESC:desc What is phosphorus ?
+LOC:loc What is the location of the Sea of Tranquility ?
+NUM:num How fast is sound ?
+LOC:loc What French province is cognac produced in ?
+DESC:desc What is Valentine 's Day ?
+DESC:desc What causes gray hair ?
+DESC:desc What is hypertension ?
+DESC:desc What is bandwidth ?
+LOC:loc What is the longest suspension bridge in the U.S. ?
+DESC:desc What is a parasite ?
+ENTY:enty What is the criterion for being legally blind ?
+HUM:hum Who is the tallest man in the world ?
+LOC:loc What are the twin cities ?
+ENTY:enty What did Edward Binney and Howard Smith invent in 1903 ?
+ENTY:enty What is the statue of liberty made of ?
+LOC:loc What planet is known as the `` red '' planet ?
+NUM:num What is the depth of the Nile river ?
+ENTY:enty What is the colorful Korean traditional dress called ?
+NUM:num Mexican pesos are worth what in U.S. dollars ?
+HUM:hum Who was the first African American to play for the Brooklyn Dodgers ?
+HUM:hum Who was the first Prime Minister of Canada ?
+NUM:num How many Admirals are there in the U.S. Navy ?
+ENTY:enty What instrument did Glenn Miller play ?
+LOC:loc What is the capital of Ethiopia ?
+ENTY:enty What is the primary language in Iceland ?
+HUM:hum Who was the first woman governor in the U.S. ?
+LOC:loc Where on the body is a mortarboard worn ?
+HUM:hum What was J.F.K. 's wife 's name ?
+LOC:loc What is the largest city in the U.S. ?
+ENTY:enty What is foot and mouth disease ?
+ENTY:enty What do you call a professional map drawer ?
+ENTY:enty What color is indigo ?
+ENTY:enty What does a barometer measure ?
+ENTY:enty What color is a giraffe 's tongue ?
+LOC:loc Where is the Savannah River ?
+HUM:hum Who was the first woman killed in the Vietnam War ?
+LOC:loc What planet has the strongest magnetic field of all the planets ?
+HUM:hum Who is the governor of Alaska ?
+LOC:loc What is the capital of Persia ?
+LOC:loc Where is the Eiffel Tower ?
+LOC:loc What is the deepest lake in the US ?
+HUM:hum Who was the first U.S. president to appear on TV ?
+LOC:loc Where is the Little League Museum ?
+ENTY:enty What are the two types of twins ?
+LOC:loc What is the brightest star ?
+ENTY:enty What color is yak milk ?
+ENTY:enty What is a group of frogs called ?
+ENTY:enty What is the name of William Penn 's ship ?
+LOC:loc What is the street address of the White House ?
+ENTY:enty What fruit is Melba sauce made from ?
+ENTY:enty What was President Lyndon Johnson 's reform program called ?
+HUM:hum Who is the only president to serve 2 non-consecutive terms ?
+HUM:hum Who painted the ceiling of the Sistine Chapel ?
+ENTY:enty Name a stimulant .
+LOC:loc What is the location of Lake Champlain ?
+ENTY:enty What is the Illinois state flower ?
+ENTY:enty What is Maryland 's state bird ?
+HUM:hum Who wrote `` The Divine Comedy '' ?
+ENTY:enty What kind of dog was Toto in the Wizard of Oz ?
+ENTY:enty What is the only artery that carries blue blood from the heart to the lungs ?
+ENTY:enty What color does litmus paper turn when it comes into contact with a strong acid ?
+ENTY:enty What are the colors of the German flag ?
+LOC:loc What soviet seaport is on the Black Sea ?
+ENTY:enty What currency do they use in Brazil ?
+ENTY:enty Name a food high in zinc .
+LOC:loc Where do apple snails live ?
+HUM:hum Who killed John F. Kennedy ?
+HUM:hum Who was the first vice president of the U.S. ?
+ENTY:enty What birthstone is turquoise ?
+HUM:hum Who was the first US President to ride in an automobile to his inauguration ?
+HUM:hum Who lived in the Neuschwanstein castle ?
+HUM:hum Who invented the instant Polaroid camera ?
+ENTY:enty What is a baby lion called ?
+LOC:loc What is the fourth highest mountain in the world ?
+HUM:hum What is Shakespeare 's nickname ?
+ENTY:enty What is the heaviest naturally occurring element ?
+LOC:loc What city 's newspaper is called `` The Star '' ?
+HUM:hum Which U.S.A. president appeared on `` Laugh-In '' ?
+HUM:hum Who is the congressman from state of Texas on the armed forces committee ?
+HUM:hum Who was president in 1913 ?
+HUM:hum Who discovered oxygen ?
+HUM:hum Who was the first person to reach the North Pole ?
+HUM:hum Who invented Trivial Pursuit ?
+HUM:hum Who is the actress known for her role in the movie `` Gypsy '' ?
+HUM:hum Who was the first African American to win the Nobel Prize in literature ?
+HUM:hum What did Jesse Jackson organize ?
+HUM:hum "What chain store is headquartered in Bentonville
+HUM:hum Who was the 22nd President of the US ?
