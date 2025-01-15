@@ -36,8 +36,10 @@ Clone this repository and install the required dependencies:
 
 ```bash
 git clone <repository-url>
-cd ganbert
+
 pip install -r requirements.txt"
+
+sh run_experiment.sh
 ```
 
 ## References
