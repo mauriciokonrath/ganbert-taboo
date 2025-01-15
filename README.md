@@ -37,10 +37,12 @@ Clone this repository and install the required dependencies:
 ```bash
 git clone <repository-url>
 cd ganbert
-pip install -r requirements.txt
+pip install -r requirements.txt"
+```
 
 ## References
 
 - Croce, Danilo, Castellucci, Giuseppe, and Basili, Roberto. 2020. *GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples*. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 2114–2119. Online. Association for Computational Linguistics. [Link](https://www.aclweb.org/anthology/2020.acl-main.191)
 - Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. *Generative Adversarial Nets*. Advances in Neural Information Processing Systems 27, pages 2672–2680. Curran Associates, Inc.
 - Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, and Xi Chen. 2016. *Improved Techniques for Training GANs*. Advances in Neural Information Processing Systems 29, pages 2234–2242. Curran Associates, Inc.
+  
