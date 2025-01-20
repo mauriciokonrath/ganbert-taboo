@@ -104,3 +104,30 @@ The model's performance at the end of training:
 - Precision: 65.2%
 - Recall: 61.8%
 - F1-Score: 60.4%
+
+Experiment 4: GAN-BERT with Parameter Adjustments and Cleaner Dataset
+This experiment focused on testing the impact of modified parameters and the use of a cleaner unlabeled dataset on the model's performance. The goal was to validate the effectiveness of GAN-BERT in scenarios where noise in the unlabeled dataset is reduced.
+
+Dataset Preparation:
+
+
+Model Configuration:
+- Maximum Sequence Length: 256
+- Batch Size: 16
+- Generator Hidden Layers: 3
+- Discriminator Hidden Layers: 2
+- Noise Vector Size: 128
+- Discriminator Input Dropout Rate: 0.2
+- Data Balance: True
+- Learning Rate: 3e-5
+- Training Epochs: 10
+- Warmup Proportion: 0.15
+
+The model's performance at the end of training:
+- Accuracy: 67.1%
+- Precision: 78.2%
+- Recall: 67.1%
+- F1-Score: 68.1%
+
+These results demonstrate that cleaner datasets and refined parameters can significantly enhance the model's performance, emphasizing the importance of dataset quality and parameter optimization in semi-supervised learning tasks.
+
