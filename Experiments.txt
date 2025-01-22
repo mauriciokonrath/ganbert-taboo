@@ -37,3 +37,134 @@ Shared Parameters Between GAN and BERT:
 - dropout_rate: Mitigates overfitting by applying regularization across both BERT and the discriminator.
 - scheduler_d and scheduler_g: Learning rate schedulers applied to the discriminator and generator, respectively, to stabilize the training dynamics.
 
+
+## Experiments
+
+### Experiment 1
+
+#### Configuration
+**Transformer Parameters:**
+- **max_seq_length**: 64
+- **batch_size**: 64
+
+## GAN-BERT Specific Parameters
+- **num_hidden_layers_g** (Generator): 1
+- **num_hidden_layers_d** (Discriminator): 1
+- **noise_size**: 100
+- **out_dropout_rate**: 0.1
+- **apply_balance**: True
+
+## Optimization Parameters
+- **learning_rate (Discriminator)**: 5e-5
+- **learning_rate (Generator)**: 5e-5
+- **epsilon**: 1e-8
+- **num_train_epochs**: 30
+- **multi_gpu**: True
+- **apply_scheduler**: False
+- **warmup_proportion**: 0.1
+- **print_each_n_step**: 10
+
+---
+
+### Experiment 2
+
+#### Configuration
+**Transformer Parameters:**
+- **max_seq_length**: 256
+- **batch_size**: 64
+
+**GAN-BERT Specific Parameters:**
+- **num_hidden_layers_g** (Generator): 1
+- **num_hidden_layers_d** (Discriminator): 1
+- **noise_size**: 100
+- **out_dropout_rate**: 0.1
+- **apply_balance**: True
+
+**Optimization Parameters:**
+- **learning_rate (Discriminator)**: 5e-6
+- **learning_rate (Generator)**: 5e-6
+- **epsilon**: 1e-8
+- **num_train_epochs**: 30
+- **multi_gpu**: True
+- **apply_scheduler**: False
+- **warmup_proportion**: 0.1
+- **print_each_n_step**: 10
+
+---
+
+### Experiment 3
+
+#### Configuration
+**Transformer Parameters:**
+- **max_seq_length**: 64
+- **batch_size**: 64
+
+**GAN-BERT Specific Parameters:**
+- **num_hidden_layers_g** (Generator): 1
+- **num_hidden_layers_d** (Discriminator): 1
+- **noise_size**: 100
+- **out_dropout_rate**: 0.1
+- **apply_balance**: True
+
+**Optimization Parameters:**
+- **learning_rate (Discriminator)**: 5e-5
+- **learning_rate (Generator)**: 5e-5
+- **epsilon**: 1e-8
+- **num_train_epochs**: 30
+- **multi_gpu**: True
+- **apply_scheduler**: True
+- **warmup_proportion**: 0.1
+- **print_each_n_step**: 10
+
+---
+
+### Experiment 4
+
+#### Configuration
+**Transformer Parameters:**
+- **max_seq_length**: 256
+- **batch_size**: 16
+
+**GAN-BERT Specific Parameters:**
+- **num_hidden_layers_g** (Generator): 3
+- **num_hidden_layers_d** (Discriminator): 2
+- **noise_size**: 128
+- **out_dropout_rate**: 0.2
+- **apply_balance**: True
+
+**Optimization Parameters:**
+- **learning_rate (Discriminator)**: 3e-5
+- **learning_rate (Generator)**: 3e-5
+- **epsilon**: 1e-8
+- **num_train_epochs**: 30
+- **multi_gpu**: True
+- **apply_scheduler**: False
+- **warmup_proportion**: 0.15
+- **print_each_n_step**: 10
+
+---
+
+### Experiment 5
+
+#### Configuration
+**Transformer Parameters:**
+- **max_seq_length**: 64
+- **batch_size**: 64
+
+**GAN-BERT Specific Parameters:**
+- **num_hidden_layers_g** (Generator): 1
+- **num_hidden_layers_d** (Discriminator): 1
+- **noise_size**: 100
+- **out_dropout_rate**: 0.2
+- **apply_balance**: True
+
+**Optimization Parameters:**
+- **learning_rate (Discriminator)**: 5e-5
+- **learning_rate (Generator)**: 5e-5
+- **epsilon**: 1e-8
+- **num_train_epochs**: 30
+- **multi_gpu**: True
+- **apply_scheduler**: False
+- **warmup_proportion**: 0.1
+- **print_each_n_step**: 10
+
